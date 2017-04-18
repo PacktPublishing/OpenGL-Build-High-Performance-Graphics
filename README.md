@@ -1,4 +1,4 @@
-# OpenGL – Build high performance graphics
+# OpenGL â€“ Build high performance graphics
 
 
 ### What You Will Learn:
@@ -14,7 +14,7 @@
 
 ### Related Products
 
-* [OpenGL Development Cookbook](https://www.packtpub.com/all?search=OpenGL%20Development%20Cookbook)
+* [OpenGL Development Cookbook](https://www.packtpub.com/game-development/opengl-development-cookbook)
 
 * [OpenGL 4 Shading Language Cookbook, Second Edition](https://www.packtpub.com/game-development/opengl-4-shading-language-cookbook-second-edition)
 
