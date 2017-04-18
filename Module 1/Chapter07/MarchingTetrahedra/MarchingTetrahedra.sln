@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MarchingTetrahedra", "MarchingTetrahedra.vcxproj", "{3BD54D6F-30F4-4A93-A63D-326AFFDF971D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD54D6F-30F4-4A93-A63D-326AFFDF971D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3BD54D6F-30F4-4A93-A63D-326AFFDF971D}.Debug|Win32.Build.0 = Debug|Win32
+		{3BD54D6F-30F4-4A93-A63D-326AFFDF971D}.Release|Win32.ActiveCfg = Release|Win32
+		{3BD54D6F-30F4-4A93-A63D-326AFFDF971D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

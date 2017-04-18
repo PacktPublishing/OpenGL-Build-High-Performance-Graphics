@@ -1,0 +1,1 @@
+gcc -Wall `pkg-config --cflags glfw3` -o main Tutorial1/main.cpp `pkg-config --static --libs glfw3`
